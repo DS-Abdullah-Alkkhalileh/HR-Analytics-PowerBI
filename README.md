@@ -1,5 +1,21 @@
 # HR Analytics Dashboard in Power BI
 
+
+## 📈 Dashboards Preview
+
+### 1. Overview
+![Overview Dashboard](Overview.png)
+
+### 2. Demographics
+![Demographics Dashboard](Demographics.png)
+
+### 3. Performance Tracker
+![Performance Dashboard](Performance_Trackers.png)
+
+### 4. Attrition
+![Attrition Dashboard](Attrition.png)
+
+
 ## 📌 Project Overview
 This project is an **HR Analytics Case Study** built using **Power BI**.  
 The goal is to analyze employee data and provide actionable insights into:
