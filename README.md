@@ -10,7 +10,7 @@
 ![Demographics Dashboard](Demographics.png)
 
 ### 3. Performance Tracker
-![Performance Dashboard](Performance_Trackers.png)
+![Performance Dashboard](Performance_Tracker.png)
 
 ### 4. Attrition
 ![Attrition Dashboard](Attrition.png)
